@@ -25,10 +25,26 @@ dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul
 <p> <i> 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan 
 penjelasannya! </i><br/></p>
 
-<p>Elemen HTML h1 digunakan untuk menunjukkan bagian yang paling penting (atau tingkat tertinggi) pada halaman. Elemen ini digunakan untuk judul atau heading, judul bisa berupa elemen gambar atau teks atau-pun keduanya.</p>
-<p>setelah saya coba tidak ada bedanya dengan #intro h1 terhadap heading size hanya saja ada tambahan teks intro sebelum heading.</p>
+<p> Elemen h1 {,,} fungsinya untuk memberikan style yang berbeda pada sebuah elemen.
+<img src="Capture_Tanpa Intro.PNG"   />
+  
+<p> #intro h1 {,,} untuk memberikan style pada id.
+ <img src="Capture7.PNG"   />
+  
+<p> <i> 3. apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada 
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya ! </i><br/></p>
 
+<p> Pada dasarnya sesuai kebutuhan semua perubahan akan tampil pada browser, ada beberapa kode yang bisa di lakukan internal dan inline, hanya saja yang membuuat halaman atau tampilan web maximal dan sesuai keinginan, makan kita deklarasikan semua design yang kita inginkan pada CSS Eksternal,,karena ada beberapa kode/ design tampilan yang tidak bisa di lakukan di internal HTML dan inline CSS</p>
 
+<p> Berikut adalah tampilan jika saya melakukan secara internal</p>
+<img src="Capture8_CSS Internal.PNG"  />
+
+<p> Berikut adalah tampilan jika saya melakukan secara Eksternal</p>
+ <img src="Capture8_CSS Eksternal.PNG"  /> 
+
+<p> <i> 4.  ada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut 
+terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? 
+Berikan penjelasan dan contohnya! </i><br/></p> ( <p id="paragraf-1" class="text-paragraf"> )
 
 
 
