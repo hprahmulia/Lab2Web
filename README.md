@@ -8,6 +8,17 @@ dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul
 ### Membuat dokumen HTML
 <img src="Capture1.PNG"  />
 
+### Mendeklarasikan CSS Internal
+<img src="Capture2.PNG"  />
+
+### Menambahkan Inline CSS
+<img sr="Capture3.PNG"   /> 
+
+### Menambahkan Inline CSS
+<img sr="Capture4(1).PNG"   /> 
+<img sr="Capture4.PNG"   /> 
+
+
 
 
 
