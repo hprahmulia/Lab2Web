@@ -25,6 +25,16 @@ dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul
 <p> <i> 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan 
 penjelasannya! </i><br/></p>
 
+<p>Elemen HTML h1 digunakan untuk menunjukkan bagian yang paling penting (atau tingkat tertinggi) pada halaman. Elemen ini digunakan untuk judul atau heading, judul bisa berupa elemen gambar atau teks atau-pun keduanya.</p>
+<p>setelah saya coba tidak ada bedanya dengan #intro h1 terhadap heading size hanya saja ada tambahan teks intro sebelum heading.</p>
+
+
+
+
+
+
+
+
 
 
 
