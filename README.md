@@ -6,7 +6,7 @@ Pertanyaan dan Tugas
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini </i><br/></p>
 
 ### Membuat dokumen HTML
-
+<img src="Capture1.PNG"  />
 
 
 
