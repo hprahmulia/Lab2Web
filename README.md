@@ -42,9 +42,11 @@ elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan 
 <p> Berikut adalah tampilan jika saya melakukan secara Eksternal</p>
  <img src="Capture8_CSS Eksternal.PNG"  /> 
 
-<p> <i> 4.  ada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut 
+<p> <i> 4.  pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut 
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? 
-Berikan penjelasan dan contohnya! </i><br/></p> ( <p id="paragraf-1" class="text-paragraf"> )
+Berikan penjelasan dan contohnya! </i><br/></p>
+
+
 
 
 
