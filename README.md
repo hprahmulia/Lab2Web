@@ -12,11 +12,21 @@ dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul
 <img src="Capture2.PNG"  />
 
 ### Menambahkan Inline CSS
-<img sr="Capture3.PNG"   /> 
+<img src="Capture3.PNG"   />
 
-### Menambahkan Inline CSS
-<img sr="Capture4(1).PNG"   /> 
-<img sr="Capture4.PNG"   /> 
+### Membuat CSS Eksterna
+<img src="Capture4(1).PNG"/> 
+<img src="Capture4.PNG"   />
+
+###  Menambahkan CSS Selector
+<img src="Capture5.PNG"   />
+<img src="Capture6.PNG"   />
+
+<p> <i> 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan 
+penjelasannya! </i><br/></p>
+
+
+
 
 
 
