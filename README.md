@@ -28,7 +28,7 @@ penjelasannya! </i><br/></p>
 <p> Elemen h1 {,,} fungsinya untuk memberikan style yang berbeda pada sebuah elemen.
 <img src="Capture_Tanpa Intro.PNG"   />
   
-<p> #intro h1 {,,} untuk memberikan style pada id.
+<p> #intro h1 {,,}  untuk menyeleksi element yang memiliki attribute ID dengan value "intro" 
  <img src="Capture7.PNG"   />
   
 <p> <i> 3. apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada 
