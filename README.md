@@ -46,6 +46,7 @@ elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan 
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? 
 Berikan penjelasan dan contohnya! </i><br/></p>
 
+<p> yang akan tampil pada browser adalah keduanya,,,</p>
 
 
 
